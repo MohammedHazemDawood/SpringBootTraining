@@ -1,0 +1,14 @@
+{
+  "configurations": [
+      {
+          "name": "run app",
+          "type": "gradle",
+          "tasks": [
+              "bootRun"
+          ],
+          "environment": {
+              
+          },
+      }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "plugins": [
+        {
+            "type": "add",
+            "pluginName": "fleet.spring.boot"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.spellchecker"
+        },
+        {
+            "type": "add",
+            "pluginName": "fleet.grazie"
+        }
+    ]
+}
